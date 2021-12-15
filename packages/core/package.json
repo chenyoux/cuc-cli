@@ -1,0 +1,26 @@
+{
+  "name": "@cuc-cli/core",
+  "version": "1.0.0",
+  "description": "cuc-cli/core",
+  "author": "陈犹熙 <chenyxa@dragoninfo.com.cn>",
+  "homepage": "https://github.com/chenyoux/cuc-cli/tree/main/packages/core#readme",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenyoux/cuc-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/chenyoux/cuc-cli/issues"
+  }
+}

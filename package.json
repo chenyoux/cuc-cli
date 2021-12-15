@@ -1,0 +1,22 @@
+{
+  "name": "cuc-cli",
+  "version": "1.0.0",
+  "description": "cuc-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenyoux/cuc-cli.git"
+  },
+  "author": "chenyouxi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenyoux/cuc-cli/issues"
+  },
+  "homepage": "https://github.com/chenyoux/cuc-cli#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
